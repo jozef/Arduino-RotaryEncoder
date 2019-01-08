@@ -1,0 +1,12 @@
+NAME
+
+    RotaryEncoder_synopsis.ino - print rotary encoder counter on serial
+    port, reset it on button press
+
+DESCRIPTION
+
+    Example from RotaryEncoder SYNOPSIS section.
+
+    Will print rotary counter on serial port. On button press counter will
+    be set to zero.
+

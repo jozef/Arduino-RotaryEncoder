@@ -1,0 +1,21 @@
+NAME
+
+    RotaryEncoder_single.ino - print rotary encoder data on serial port and
+    brighten/dimm led.
+
+DESCRIPTION
+
+    When turning the rotary encoder clock wise will add-up to the counter
+    and increase the brightness of the led. Once maximum value is reached
+    the led will start blinking. On counterclockwise will decrease the
+    counter and once below zero will start to blink. Pushing the button
+    will light-up the led to maximum intensity. And print out counter
+    status to the serial port.
+
+        pin 2 → A pin
+        pin 4 → B pin
+        pin 7 → Button pin
+        pin 10 → led + resistor
+
+    See schematics and other image in current folder.
+

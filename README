@@ -1,0 +1,122 @@
+NAME
+
+    RotaryEncoder.h/cpp - read/decode/count rotary encoder pulses
+
+SYNOPSIS
+
+        #include <Arduino.h>
+        #include <RotaryEncoder.h>      // https://github.com/jozef/Arduino-RotaryEncoder
+    
+        const uint8_t pin_a = 2; const uint8_t pin_b = 4; const uint8_t pin_btn = 7;
+    
+        RotaryEncoder rote(pin_a,pin_b,pin_btn);
+    
+        void setup () {
+            rote.setup();
+            Serial.begin(9600);
+        }
+    
+        void loop () {
+            if (rote.btn_pressed()) {
+                // switch is pressed
+                Serial.println("switch pressed");
+                rote.counter = 0;
+            }
+            if (rote.changed()) {
+                Serial.println(rote.counter);
+                if (rote.counter > 0) {
+                    // more steps CW then CCW
+                }
+            }
+            delay(200);
+        }
+
+DESCRIPTION
+
+    Arduino class/library to read-out one or more rotary encoders.
+
+    See examples/ folder for schematics and example usage.
+
+ PROPERTIES
+
+    int counter:
+
+    number of rotation steps
+
+    int8_t direction:
+
+    -1 for counter clockwise, 0 for one step reversed to the previous
+    direction or 1 for clockwise turning.
+
+    int limit_min; int limit_max:
+
+    minimum and maximum value that counter can have. if both are the same
+    value, no limit.
+
+    int step:
+
+    how much is a single rotational step. by default 1.
+
+    uint8_t pin_a:
+
+    Arduino pin on which encoder pin A is connected. If the pin supports
+    interrupt, update() function is called automatically.
+
+    uint8_t pin_b:
+
+    Arduino pin on which encoder pin B is connected.
+
+    uint8_t pin_btn:
+
+    Arduino pin on which encoder push button is connected.
+
+ METHODS
+
+    RotaryEncoder(uint8_t a, uint8_t b, uint8_t btn = 0, int init_counter =
+    0):
+
+    Constructor, a and b pins are required. Button pin and initial value
+    for counter optional.
+
+    void setup():
+
+    Will initiate pins and interrupts.
+
+    bool update():
+
+    Needs to be called as "fast as possible" if Arduino pin connected to
+    encoder pin A is not on an interrupt pin to update state and do the
+    counting.
+
+    bool changed():
+
+    Set to true if there was any change to the counter since the last call
+    of this function.
+
+    bool btn_pressed():
+
+    Returns true/false if button is pressed.
+
+EXAMPLES
+
+ examples/RotaryEncoder_single/RotaryEncoder_synopsis.ino
+
+    Code from SYNOPSIS section.
+
+ examples/RotaryEncoder_single/RotaryEncoder_single.ino
+
+    Print rotary counted value on serial port and light up led.
+    Brighten/Dimm led based on rotary counter.
+
+INSTALL
+
+        git clone https://github.com/jozef/Arduino-RotaryEncoder.git sketchbook/libraries/RotaryEncoder
+
+LICENSE
+
+    This is free software, licensed under the MIT License.
+
+AUTHOR
+
+        Jozef Kutej
+

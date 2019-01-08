@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70mm"
+   height="30mm"
+   viewBox="0 0 70 30"
+   version="1.1"
+   id="svg6187"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="RotaryEncoder.svg">
+  <defs
+     id="defs6181" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4632728"
+     inkscape:cx="135.78821"
+     inkscape:cy="80.09304"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="841"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6184">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-267)">
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g804">
+      <rect
+         x="38900"
+         y="31450"
+         width="600"
+         height="100"
+         rx="0"
+         id="rect774" />
+      <rect
+         x="38900"
+         y="30450"
+         width="600"
+         height="100"
+         rx="0"
+         id="rect776" />
+      <rect
+         x="38900"
+         y="29450"
+         width="600"
+         height="100"
+         rx="0"
+         id="rect778" />
+      <rect
+         x="38900"
+         y="28450"
+         width="600"
+         height="100"
+         rx="0"
+         id="rect780" />
+      <rect
+         x="38500"
+         y="28000"
+         width="1000"
+         height="4000"
+         rx="0"
+         id="rect782" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 39500,28500 h 1500"
+         id="path784" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40390,28370 h -290"
+         id="path786" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40250,28370 v -500 l -50,70 -50,50 -50,20"
+         id="path788" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 39500,29500 h 1500"
+         id="path790" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40100,28920 30,-20 40,-30 h 120 l 50,30 20,20 30,50 v 40 l -30,80 -280,280 h 310"
+         id="path792" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 39500,30500 h 1500"
+         id="path794" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40080,29870 h 310 l -170,190 h 70 l 50,30 20,20 30,50 v 120 l -30,40 -20,30 -50,20 h -140 l -50,-20 -20,-30"
+         id="path796" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 39500,31500 h 1500"
+         id="path798" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40340,31040 v 330"
+         id="path800" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40220,30850 -120,350 h 310"
+         id="path802" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g838">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 38630,27740 v -500 h 190 l 40,30 30,20 20,50 v 70 l -20,50 -30,20 -40,20 h -190"
+         id="path806" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 39390,27740 h -290"
+         id="path808" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 39250,27740 v -500 l -50,70 -50,50 -50,20"
+         id="path810" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 38140,32000 30,20 20,70 v 50 l -20,70 -50,50 -50,20 -90,30 h -70 l -100,-30 -50,-20 -40,-50 -30,-70 v -50 l 30,-70 20,-20"
+         id="path812" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 37690,31690 v -100 l 30,-50 40,-40 100,-30 h 160 l 100,30 50,40 20,50 v 100 l -20,50 -50,40 -100,30 h -160 l -100,-30 -40,-40 -30,-50"
+         id="path814" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 38190,31260 h -500 l 500,-290 h -500"
+         id="path816" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 38190,30740 h -500 l 500,-290 h -500"
+         id="path818" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 38240,30330 v -380"
+         id="path820" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 37690,29740 v -50 l 30,-50 20,-20 50,-30 90,-20 h 120 l 100,20 40,30 30,20 20,50 v 50 l -20,40 -30,30 -40,20 -100,20 h -120 l -90,-20 -50,-20 -20,-30 -30,-40"
+         id="path822" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 38190,29090 v 290"
+         id="path824" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 38190,29240 h -500 l 70,40 50,50 20,50"
+         id="path826" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 37690,28930 500,-340"
+         id="path828" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 37690,28590 500,340"
+         id="path830" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 37690,28310 v -50 l 30,-50 20,-20 50,-30 90,-20 h 120 l 100,20 40,30 30,20 20,50 v 50 l -20,40 -30,30 -40,20 -100,30 h -120 l -90,-30 -50,-20 -20,-30 -30,-40"
+         id="path832" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 37860,27710 h 330"
+         id="path834" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 37670,27830 350,120 v -310"
+         id="path836" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g848">
+      <line
+         x1="43100"
+         y1="32100"
+         x2="43100"
+         y2="32300"
+         id="line844" />
+      <line
+         x1="43100"
+         y1="32300"
+         x2="44900"
+         y2="32300"
+         id="line846" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g852">
+      <rect
+         x="43100"
+         y="32700"
+         width="1800"
+         height="200"
+         rx="0"
+         id="rect850" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g866">
+      <line
+         x1="43100"
+         y1="32100"
+         x2="44900"
+         y2="32100"
+         id="line854" />
+      <line
+         x1="44900"
+         y1="32100"
+         x2="44900"
+         y2="32300"
+         id="line856" />
+      <polyline
+         fill="none;"
+         points="43300,31600 43700,31600 "
+         id="polyline858" />
+      <polyline
+         fill="none;"
+         points="43500,31400 43500,31800 "
+         id="polyline860" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 44000,32100 V 31000"
+         id="path862" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 44000,32900 v 1100"
+         id="path864" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g892">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 44680,31690 -20,30 -70,20 h -50 l -70,-20 -50,-50 -20,-50 -30,-90 v -70 l 30,-100 20,-50 50,-40 70,-30 h 50 l 70,30 20,20"
+         id="path868" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 45160,31740 h -290"
+         id="path870" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 45020,31740 v -500 l -50,70 -50,50 -50,20"
+         id="path872" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 44480,33240 h 50 l 50,30 20,20 30,50 20,90 v 120 l -20,100 -30,40 -20,30 -50,20 h -50 l -40,-20 -30,-30 -20,-40 -30,-100 v -120 l 30,-90 20,-50 30,-20 40,-30"
+         id="path874" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 44860,33690 30,30 -30,20 -20,-20 20,-30 v 50"
+         id="path876" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 45360,33740 h -280"
+         id="path878" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 45220,33740 v -500 l -50,70 -40,50 -50,20"
+         id="path880" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 45790,33410 v 330"
+         id="path882" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 45580,33410 v 260 l 20,50 50,20 h 70 l 50,-20 20,-30"
+         id="path884" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 45790,33740 -40,50 -30,50 30,40 40,30 h 50"
+         id="path886" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 46200,33480 h -170"
+         id="path888" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 46030,33740 v -500 h 240"
+         id="path890" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g900">
+      <rect
+         x="50500"
+         y="28100"
+         width="2000"
+         height="800"
+         rx="0"
+         id="rect898" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g906">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50500,28500 h -500"
+         id="path902" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 52500,28500 h 500"
+         id="path904" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g926">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51410,27890 -160,-240"
+         id="path908" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51130,27890 v -500 h 190 l 40,30 30,20 20,50 v 70 l -20,50 -30,20 -40,20 h -190"
+         id="path910" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51890,27890 h -290"
+         id="path912" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51750,27890 v -500 l -50,70 -50,50 -50,20"
+         id="path914" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50910,28240 30,-20 40,-30 h 120 l 50,30 20,20 30,50 v 40 l -30,80 -280,280 h 310"
+         id="path916" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51390,28240 20,-20 50,-30 h 120 l 50,30 20,20 20,50 v 40 l -20,80 -290,280 h 310"
+         id="path918" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51890,28690 v -500"
+         id="path920" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51940,28500 140,190"
+         id="path922" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 52080,28360 -190,190"
+         id="path924" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g934">
+      <rect
+         x="50500"
+         y="30100"
+         width="2000"
+         height="800"
+         rx="0"
+         id="rect932" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g940">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50500,30500 h -500"
+         id="path936" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 52500,30500 h 500"
+         id="path938" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g958">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51410,29890 -160,-240"
+         id="path942" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51130,29890 v -500 h 190 l 40,30 30,20 20,50 v 70 l -20,50 -30,20 -40,20 h -190"
+         id="path944" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51600,29440 30,-20 40,-30 h 120 l 50,30 20,20 30,50 v 40 l -30,80 -280,280 h 310"
+         id="path946" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50910,30240 30,-20 40,-30 h 120 l 50,30 20,20 30,50 v 40 l -30,80 -280,280 h 310"
+         id="path948" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51390,30240 20,-20 50,-30 h 120 l 50,30 20,20 20,50 v 40 l -20,80 -290,280 h 310"
+         id="path950" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51890,30690 v -500"
+         id="path952" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51940,30500 140,190"
+         id="path954" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 52080,30360 -190,190"
+         id="path956" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g966">
+      <rect
+         x="50500"
+         y="26100"
+         width="2000"
+         height="800"
+         rx="0"
+         id="rect964" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g972">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50500,26500 h -500"
+         id="path968" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 52500,26500 h 500"
+         id="path970" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g990">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51410,25890 -160,-240"
+         id="path974" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51130,25890 v -500 h 190 l 40,30 30,20 20,50 v 70 l -20,50 -30,20 -40,20 h -190"
+         id="path976" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51580,25390 h 310 l -170,190 h 70 l 50,30 20,20 30,50 v 120 l -30,40 -20,30 -50,20 h -140 l -50,-20 -20,-30"
+         id="path978" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50910,26240 30,-20 40,-30 h 120 l 50,30 20,20 30,50 v 40 l -30,80 -280,280 h 310"
+         id="path980" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51390,26240 20,-20 50,-30 h 120 l 50,30 20,20 20,50 v 40 l -20,80 -290,280 h 310"
+         id="path982" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51890,26690 v -500"
+         id="path984" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51940,26500 140,190"
+         id="path986" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 52080,26360 -190,190"
+         id="path988" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1000">
+      <line
+         x1="45600"
+         y1="32100"
+         x2="45600"
+         y2="32300"
+         id="line996" />
+      <line
+         x1="45600"
+         y1="32300"
+         x2="47400"
+         y2="32300"
+         id="line998" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1004">
+      <rect
+         x="45600"
+         y="32700"
+         width="1800"
+         height="200"
+         rx="0"
+         id="rect1002" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1018">
+      <line
+         x1="45600"
+         y1="32100"
+         x2="47400"
+         y2="32100"
+         id="line1006" />
+      <line
+         x1="47400"
+         y1="32100"
+         x2="47400"
+         y2="32300"
+         id="line1008" />
+      <polyline
+         fill="none;"
+         points="45800,31600 46200,31600 "
+         id="polyline1010" />
+      <polyline
+         fill="none;"
+         points="46000,31400 46000,31800 "
+         id="polyline1012" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 46500,32100 V 31000"
+         id="path1014" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 46500,32900 v 1100"
+         id="path1016" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1042">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 47180,31690 -20,30 -70,20 h -50 l -70,-20 -50,-50 -20,-50 -30,-90 v -70 l 30,-100 20,-50 50,-40 70,-30 h 50 l 70,30 20,20"
+         id="path1020" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 47370,31290 30,-20 40,-30 h 120 l 50,30 20,20 30,50 v 40 l -30,80 -280,280 h 310"
+         id="path1022" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 46980,33240 h 50 l 50,30 20,20 30,50 20,90 v 120 l -20,100 -30,40 -20,30 -50,20 h -50 l -40,-20 -30,-30 -20,-40 -30,-100 v -120 l 30,-90 20,-50 30,-20 40,-30"
+         id="path1024" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 47360,33690 30,30 -30,20 -20,-20 20,-30 v 50"
+         id="path1026" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 47860,33740 h -280"
+         id="path1028" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 47720,33740 v -500 l -50,70 -40,50 -50,20"
+         id="path1030" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 48290,33410 v 330"
+         id="path1032" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 48080,33410 v 260 l 20,50 50,20 h 70 l 50,-20 20,-30"
+         id="path1034" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 48290,33740 -40,50 -30,50 30,40 40,30 h 50"
+         id="path1036" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 48700,33480 h -170"
+         id="path1038" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 48530,33740 v -500 h 240"
+         id="path1040" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1052">
+      <line
+         x1="48100"
+         y1="32100"
+         x2="48100"
+         y2="32300"
+         id="line1048" />
+      <line
+         x1="48100"
+         y1="32300"
+         x2="49900"
+         y2="32300"
+         id="line1050" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1056">
+      <rect
+         x="48100"
+         y="32700"
+         width="1800"
+         height="200"
+         rx="0"
+         id="rect1054" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1070">
+      <line
+         x1="48100"
+         y1="32100"
+         x2="49900"
+         y2="32100"
+         id="line1058" />
+      <line
+         x1="49900"
+         y1="32100"
+         x2="49900"
+         y2="32300"
+         id="line1060" />
+      <polyline
+         fill="none;"
+         points="48300,31600 48700,31600 "
+         id="polyline1062" />
+      <polyline
+         fill="none;"
+         points="48500,31400 48500,31800 "
+         id="polyline1064" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 49000,32100 V 31000"
+         id="path1066" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 49000,32900 v 1100"
+         id="path1068" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1094">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 49680,31690 -20,30 -70,20 h -50 l -70,-20 -50,-50 -20,-50 -30,-90 v -70 l 30,-100 20,-50 50,-40 70,-30 h 50 l 70,30 20,20"
+         id="path1072" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 49850,31240 h 310 l -170,190 h 70 l 50,30 20,20 30,50 v 120 l -30,40 -20,30 -50,20 h -140 l -50,-20 -20,-30"
+         id="path1074" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 49480,33240 h 50 l 50,30 20,20 30,50 20,90 v 120 l -20,100 -30,40 -20,30 -50,20 h -50 l -40,-20 -30,-30 -20,-40 -30,-100 v -120 l 30,-90 20,-50 30,-20 40,-30"
+         id="path1076" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 49860,33690 30,30 -30,20 -20,-20 20,-30 v 50"
+         id="path1078" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50360,33740 h -280"
+         id="path1080" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50220,33740 v -500 l -50,70 -40,50 -50,20"
+         id="path1082" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50790,33410 v 330"
+         id="path1084" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50580,33410 v 260 l 20,50 50,20 h 70 l 50,-20 20,-30"
+         id="path1086" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 50790,33740 -40,50 -30,50 30,40 40,30 h 50"
+         id="path1088" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51200,33480 h -170"
+         id="path1090" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 51030,33740 v -500 h 240"
+         id="path1092" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1100">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41000,31500 v 2500"
+         id="path1096" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41000,34000 h 3000"
+         id="path1098" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1106">
+      <circle
+         cx="44000"
+         cy="34000"
+         r="200"
+         id="circle1104" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1112">
+      <circle
+         cx="46500"
+         cy="34000"
+         r="200"
+         id="circle1110" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1118">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 63500,34000 V 30500"
+         id="path1116" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1124">
+      <circle
+         cx="49000"
+         cy="34000"
+         r="200"
+         id="circle1122" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1140">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 63500,30500 H 61500"
+         id="path1128" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 61500,28500 h 2000"
+         id="path1130" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 63500,28500 V 26500"
+         id="path1132" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 63500,26500 H 53000"
+         id="path1134" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41000,30500 h 1500"
+         id="path1136" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 44000,31000 V 28500"
+         id="path1138" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1146">
+      <circle
+         cx="44000"
+         cy="28500"
+         r="200"
+         id="circle1144" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1152">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 46500,31000 V 29500"
+         id="path1150" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1158">
+      <circle
+         cx="46500"
+         cy="29500"
+         r="200"
+         id="circle1156" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1164">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 49000,31000 V 26500"
+         id="path1162" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1170">
+      <circle
+         cx="49000"
+         cy="26500"
+         r="200"
+         id="circle1168" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1178">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 55500,29500 H 54500"
+         id="path1174" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 54500,29500 v 4500"
+         id="path1176" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:1;stroke:#008400;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1184">
+      <circle
+         cx="54500"
+         cy="34000"
+         r="200"
+         id="circle1182" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1196">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 55500,30500 H 53000"
+         id="path1188" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 50000,30500 V 29500"
+         id="path1190" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 50000,29500 H 46500"
+         id="path1192" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41000,28500 h 3000"
+         id="path1194" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#0000c2;fill-opacity:0;stroke:#0000c2;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1218">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40980,30800 -50,-30 h -90 l -90,30 -50,50 -30,60 -30,110 v 90 l 30,110 30,60 50,60 90,30 h 60 l 80,-30 30,-30 v -200 h -110"
+         id="path1198" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41270,31370 v -600 l 340,600 v -600"
+         id="path1200" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41900,31370 v -600 h 140 l 90,30 50,50 30,60 30,110 v 90 l -30,110 -30,60 -50,60 -90,30 h -140"
+         id="path1202" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 40870,30050 80,30 30,30 30,60 v 80 l -30,60 -30,30 -50,30 h -230 v -600 h 200 l 60,30 20,20 30,60 v 60 l -30,60 -20,20 -60,30 h -200"
+         id="path1204" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41180,29770 h 350"
+         id="path1206" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41350,30370 v -600"
+         id="path1208" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41730,30370 v -600 l 340,600 v -600"
+         id="path1210" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41370,29050 80,30 30,30 30,60 v 80 l -30,60 -30,30 -50,30 h -230 v -600 h 200 l 60,30 20,20 30,60 v 60 l -30,60 -20,20 -60,30 h -200"
+         id="path1212" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41140,28200 h 290"
+         id="path1214" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 41080,28370 200,-600 200,600"
+         id="path1216" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008400;fill-opacity:0;stroke:#008400;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1240">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 42500,30500 V 26500"
+         id="path1220" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 42500,26500 h 6500"
+         id="path1222" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 44000,34000 h 2500"
+         id="path1224" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 46500,34000 h 2500"
+         id="path1226" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 49000,34000 h 5500"
+         id="path1228" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 44000,28500 h 6000"
+         id="path1230" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 46500,29500 H 41000"
+         id="path1232" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 49000,26500 h 1000"
+         id="path1234" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 54500,34000 h 9000"
+         id="path1236" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 53000,28500 h 2500"
+         id="path1238" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#ffffc2;fill-opacity:0.6;stroke:#ffffc2;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1250">
+      <rect
+         x="56500"
+         y="27500"
+         width="4000"
+         height="4000"
+         rx="0"
+         id="rect1248" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1258">
+      <rect
+         x="56500"
+         y="27500"
+         width="4000"
+         height="4000"
+         rx="0"
+         id="rect1254" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 58351.9,30600 a 1080,1080 0 0 0 0,-2160"
+         id="path1256" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:1;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1262">
+      <circle
+         cx="57000"
+         cy="29500"
+         r="100"
+         id="circle1260" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1280">
+      <circle
+         cx="58350"
+         cy="29500"
+         r="750"
+         id="circle1264" />
+      <circle
+         cx="60200"
+         cy="29900"
+         r="50"
+         id="circle1266" />
+      <circle
+         cx="60200"
+         cy="29100"
+         r="50"
+         id="circle1268" />
+      <polyline
+         fill="none;"
+         points="58250,30200 58250,28800 "
+         id="polyline1270" />
+      <polyline
+         fill="none;"
+         points="58350,30200 58350,28800 "
+         id="polyline1272" />
+      <polyline
+         fill="none;"
+         points="58450,28800 58450,30200 "
+         id="polyline1274" />
+      <polyline
+         fill="none;"
+         points="60000,29500 59850,29500 "
+         id="polyline1276" />
+      <polyline
+         fill="none;"
+         points="60000,29100 60000,29900 "
+         id="polyline1278" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1286">
+      <polyline
+         fill="none;"
+         points="56500,30500 57000,30500 57000,30300 "
+         id="polyline1282" />
+      <polyline
+         fill="none;"
+         points="56500,28500 57000,28500 57000,28700 "
+         id="polyline1284" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1296">
+      <polyline
+         fill="none;"
+         points="58600,30700 58300,30600 58550,30450 "
+         id="polyline1288" />
+      <polyline
+         fill="none;"
+         points="58600,28350 58300,28450 58550,28600 "
+         id="polyline1290" />
+      <polyline
+         fill="none;"
+         points="60500,30500 60200,30500 60200,29900 "
+         id="polyline1292" />
+      <polyline
+         fill="none;"
+         points="60500,28500 60200,28500 60200,29100 "
+         id="polyline1294" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#840000;fill-opacity:0;stroke:#840000;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1330">
+      <polyline
+         fill="none;"
+         points="56500,29500 57000,29500 57000,29900 57200,30300 "
+         id="polyline1298" />
+      <polyline
+         fill="none;"
+         points="56800,29500 57000,29500 57000,29100 57200,28700 "
+         id="polyline1300" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 56500,28500 H 55500"
+         id="path1302" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 55880,28230 h 230"
+         id="path1304" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 55830,28370 170,-500 160,500"
+         id="path1306" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 56500,30500 H 55500"
+         id="path1308" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56030,30110 70,20 30,30 20,40 v 80 l -20,40 -30,30 -50,20 h -190 v -500 h 170 l 50,30 20,20 30,50 v 40 l -30,50 -20,30 -50,20 h -170"
+         id="path1310" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 56500,29500 H 55500"
+         id="path1312" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56150,29320 -20,30 -80,20 h -40 l -70,-20 -50,-50 -30,-50 -20,-90 v -70 l 20,-100 30,-50 50,-40 70,-30 h 40 l 80,30 20,20"
+         id="path1314" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 60500,28500 h 1000"
+         id="path1316" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 60610,28350 80,20 h 110 l 50,-20 30,-30 20,-40 v -50 l -20,-50 -30,-20 -50,-30 -90,-20 -50,-20 -20,-30 -30,-50 v -40 l 30,-50 20,-20 50,-30 h 120 l 70,30"
+         id="path1318" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 61380,28370 h -290"
+         id="path1320" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 61230,28370 v -500 l -40,70 -50,50 -50,20"
+         id="path1322" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 60500,30500 h 1000"
+         id="path1324" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 60610,30350 80,20 h 110 l 50,-20 30,-30 20,-40 v -50 l -20,-50 -30,-20 -50,-30 -90,-20 -50,-20 -20,-30 -30,-50 v -40 l 30,-50 20,-20 50,-30 h 120 l 70,30"
+         id="path1326" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 61090,29920 20,-20 50,-30 h 120 l 50,30 20,20 30,50 v 40 l -30,80 -280,280 h 310"
+         id="path1328" />
+    </g>
+    <g
+       transform="matrix(0.00254,0,0,0.00254,-93.656696,205.95813)"
+       style="fill:#008484;fill-opacity:0;stroke:#008484;stroke-width:60;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g1402">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 57830,26050 70,20 h 120 l 50,-20 20,-30 20,-40 v -50 l -20,-50 -20,-20 -50,-30 -100,-20 -40,-20 -30,-30 -20,-50 v -40 l 20,-50 30,-20 40,-30 h 120 l 70,30"
+         id="path1332" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 58280,25570 120,500 100,-360 90,360 120,-500"
+         id="path1334" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 59160,26070 h -280"
+         id="path1336" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 59020,26070 v -500 l -50,70 -50,50 -40,20"
+         id="path1338" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 54640,26980 -170,-240"
+         id="path1340" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 54350,26980 v -500 h 190 l 50,30 20,20 30,50 v 70 l -30,50 -20,20 -50,20 h -190"
+         id="path1342" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 54920,26980 -40,-20 -30,-30 -20,-40 v -150 l 20,-40 30,-30 40,-20 h 80 l 40,20 30,30 20,40 v 150 l -20,40 -30,30 -40,20 h -80"
+         id="path1344" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 55230,26650 h 190"
+         id="path1346" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 55300,26480 v 430 l 30,50 50,20 h 40"
+         id="path1348" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 55800,26980 v -260 l -20,-50 -50,-20 h -90 l -50,20"
+         id="path1350" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 55800,26960 -40,20 h -120 l -50,-20 -20,-50 v -50 l 20,-50 50,-20 h 120 l 40,-20"
+         id="path1352" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56040,26980 v -330"
+         id="path1354" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56040,26740 30,-40 20,-30 50,-20 h 50"
+         id="path1356" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56300,26650 120,330"
+         id="path1358" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 56540,26650 -120,330 -40,120 -30,20 -50,30"
+         id="path1360" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 57110,26720 h 170"
+         id="path1362" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 57350,26980 h -240 v -500 h 240"
+         id="path1364" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 57570,26650 v 330"
+         id="path1366" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 57570,26700 20,-30 50,-20 h 70 l 50,20 20,50 v 260"
+         id="path1368" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 58230,26960 -40,20 h -100 l -50,-20 -20,-30 -20,-40 v -150 l 20,-40 20,-30 50,-20 h 100 l 40,20"
+         id="path1370" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 58520,26980 -50,-20 -20,-30 -30,-40 v -150 l 30,-40 20,-30 50,-20 h 70 l 50,20 20,30 30,40 v 150 l -30,40 -20,30 -50,20 h -70"
+         id="path1372" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 59110,26980 v -500"
+         id="path1374" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 59110,26960 -40,20 h -100 l -50,-20 -20,-30 -20,-40 v -150 l 20,-40 20,-30 50,-20 h 100 l 40,20"
+         id="path1376" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 59540,26960 -40,20 h -100 l -50,-20 -20,-50 v -190 l 20,-50 50,-20 h 100 l 40,20 30,50 v 50 l -240,40"
+         id="path1378" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 59780,26980 v -330"
+         id="path1380" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 59780,26740 20,-40 30,-30 50,-20 h 40"
+         id="path1382" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 60450,26960 70,20 h 120 l 50,-20 20,-30 20,-40 v -50 l -20,-50 -20,-20 -50,-30 -100,-20 -40,-20 -30,-30 -20,-50 v -40 l 20,-50 30,-20 40,-30 h 120 l 70,30"
+         id="path1384" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 60900,26650 100,330 90,-240 100,240 90,-330"
+         id="path1386" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 61470,26980 v -330"
+         id="path1388" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 61470,26480 -20,30 20,20 30,-20 -30,-30 v 50"
+         id="path1390" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 61640,26650 h 190"
+         id="path1392" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 61710,26480 v 430 l 20,50 50,20 h 50"
+         id="path1394" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 62210,26960 -50,20 h -90 l -50,-20 -20,-30 -30,-40 v -150 l 30,-40 20,-30 50,-20 h 90 l 50,20"
+         id="path1396" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 62420,26980 v -500"
+         id="path1398" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 62640,26980 v -260 l -30,-50 -40,-20 h -70 l -50,20 -30,30"
+         id="path1400" />
+    </g>
+  </g>
+</svg>

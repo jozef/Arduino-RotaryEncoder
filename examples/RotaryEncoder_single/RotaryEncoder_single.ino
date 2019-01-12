@@ -18,7 +18,9 @@ status to the serial port.
     pin 7 → Button pin
     pin 10 → led + resistor
 
-See schematics and other image in current folder.
+=head1 HARDWARE
+
+See KiCad schematics and image in current folder.
 
 =cut
 

@@ -142,6 +142,12 @@ Brighten/Dimm led based on rotary counter.
 
     git clone https://github.com/jozef/Arduino-RotaryEncoder.git sketchbook/libraries/RotaryEncoder
 
+=head1 SEE ALSO
+
+L<https://blog.kutej.net/2019/01/rotary-encoder>
+L<https://hackaday.com/2015/12/09/embed-with-elliot-debounce>
+L<http://www.labbookpages.co.uk/electronics/debounce.html>
+
 =head1 LICENSE
 
 This is free software, licensed under the MIT License.

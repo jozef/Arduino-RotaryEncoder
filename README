@@ -112,6 +112,12 @@ INSTALL
 
         git clone https://github.com/jozef/Arduino-RotaryEncoder.git sketchbook/libraries/RotaryEncoder
 
+SEE ALSO
+
+    https://blog.kutej.net/2019/01/rotary-encoder
+    https://hackaday.com/2015/12/09/embed-with-elliot-debounce
+    http://www.labbookpages.co.uk/electronics/debounce.html
+
 LICENSE
 
     This is free software, licensed under the MIT License.

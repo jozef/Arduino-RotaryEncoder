@@ -17,5 +17,7 @@ DESCRIPTION
         pin 7 → Button pin
         pin 10 → led + resistor
 
-    See schematics and other image in current folder.
+HARDWARE
+
+    See KiCad schematics and image in current folder.
 

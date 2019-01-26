@@ -58,13 +58,13 @@ F 3 "" H 4900 3800 50  0000 C CNN
 	1    4900 3800
 	1    0    0    -1  
 $EndComp
-Text Notes 3250 3150 0    60   ~ 0
+Text Notes 2500 3150 0    60   ~ 0
 GND
-Text Notes 3250 3050 0    60   ~ 0
+Text Notes 2500 3050 0    60   ~ 0
 SW
-Text Notes 3250 2950 0    60   ~ 0
+Text Notes 2500 2950 0    60   ~ 0
 B/2
-Text Notes 3250 2850 0    60   ~ 0
+Text Notes 2500 2850 0    60   ~ 0
 A/1
 $Comp
 L Device:Rotary_Encoder_Switch SW1
@@ -80,34 +80,34 @@ $EndComp
 $Comp
 L 74xx:74HC14 U1
 U 1 1 5C3A5EA4
-P 3850 2400
-F 0 "U1" H 3850 2083 50  0000 C CNN
-F 1 "74HC14" H 3850 2174 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm" H 3850 2400 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3850 2400 50  0001 C CNN
-	1    3850 2400
+P 3250 2400
+F 0 "U1" H 3250 2083 50  0000 C CNN
+F 1 "74HC14" H 3250 2174 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3250 2400 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3250 2400 50  0001 C CNN
+	1    3250 2400
 	-1   0    0    1   
 $EndComp
 $Comp
 L 74xx:74HC14 U1
 U 2 1 5C3A61C7
-P 3850 2950
-F 0 "U1" H 3850 2633 50  0000 C CNN
-F 1 "74HC14" H 3850 2724 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm" H 3850 2950 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3850 2950 50  0001 C CNN
-	2    3850 2950
+P 3250 2950
+F 0 "U1" H 3250 2633 50  0000 C CNN
+F 1 "74HC14" H 3250 2724 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3250 2950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3250 2950 50  0001 C CNN
+	2    3250 2950
 	-1   0    0    1   
 $EndComp
 $Comp
 L 74xx:74HC14 U1
 U 3 1 5C3A7B5D
-P 3850 3500
-F 0 "U1" H 3850 3183 50  0000 C CNN
-F 1 "74HC14" H 3850 3274 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm" H 3850 3500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3850 3500 50  0001 C CNN
-	3    3850 3500
+P 3250 3500
+F 0 "U1" H 3250 3183 50  0000 C CNN
+F 1 "74HC14" H 3250 3274 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 3250 3500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3250 3500 50  0001 C CNN
+	3    3250 3500
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -124,12 +124,12 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x05 J1
 U 1 1 5C3A9878
-P 3100 2950
-F 0 "J1" H 3100 3250 50  0000 C CNN
-F 1 "Conn_01x05" H 3020 3276 50  0001 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal" H 3100 2950 50  0001 C CNN
-F 3 "~" H 3100 2950 50  0001 C CNN
-	1    3100 2950
+P 2350 2950
+F 0 "J1" H 2350 3250 50  0000 C CNN
+F 1 "Conn_01x05" H 2270 3276 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Horizontal" H 2350 2950 50  0001 C CNN
+F 3 "~" H 2350 2950 50  0001 C CNN
+	1    2350 2950
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -272,16 +272,6 @@ Wire Wire Line
 	5550 2850 5550 2950
 Wire Wire Line
 	5400 1200 5900 1200
-Wire Wire Line
-	3550 2950 3300 2950
-Wire Wire Line
-	3550 2400 3550 2850
-Wire Wire Line
-	3550 2850 3300 2850
-Wire Wire Line
-	3550 3500 3550 3050
-Wire Wire Line
-	3550 3050 3300 3050
 Connection ~ 5250 2400
 Wire Wire Line
 	5250 2400 5250 2500
@@ -339,16 +329,14 @@ Connection ~ 6150 2950
 Wire Wire Line
 	6150 2950 6800 2950
 Wire Wire Line
-	3300 3150 3300 4000
+	2550 3150 2550 4000
 Wire Wire Line
 	5250 1200 5400 1200
 Connection ~ 5400 1200
-Text Notes 3250 2750 0    60   ~ 0
+Text Notes 2500 2750 0    60   ~ 0
 VCC
 Wire Wire Line
-	3300 2750 3300 1900
-Wire Wire Line
-	3300 1900 5400 1900
+	2550 2750 2550 1900
 Wire Wire Line
 	5400 1900 5400 1200
 $Comp
@@ -368,8 +356,6 @@ Connection ~ 5400 4000
 Wire Wire Line
 	5400 4000 6750 4000
 Wire Wire Line
-	3300 4000 4400 4000
-Wire Wire Line
 	4150 2950 4650 2950
 Wire Wire Line
 	4150 2400 4400 2400
@@ -380,7 +366,6 @@ Wire Wire Line
 	4400 2400 5250 2400
 Wire Wire Line
 	4400 3950 4400 4000
-Connection ~ 4400 4000
 Wire Wire Line
 	4400 4000 4650 4000
 Wire Wire Line
@@ -405,4 +390,52 @@ Wire Wire Line
 Connection ~ 4900 4000
 Wire Wire Line
 	4900 4000 5400 4000
+$Comp
+L 74xx:74HC14 U1
+U 4 1 5C4CE107
+P 3850 3500
+F 0 "U1" H 3850 3183 50  0000 C CNN
+F 1 "74HC14" H 3850 3274 50  0000 C CNN
+F 2 "" H 3850 3500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3850 3500 50  0001 C CNN
+	4    3850 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L 74xx:74HC14 U1
+U 5 1 5C4CE1BB
+P 3850 2950
+F 0 "U1" H 3850 2633 50  0000 C CNN
+F 1 "74HC14" H 3850 2724 50  0000 C CNN
+F 2 "" H 3850 2950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3850 2950 50  0001 C CNN
+	5    3850 2950
+	-1   0    0    1   
+$EndComp
+$Comp
+L 74xx:74HC14 U1
+U 6 1 5C4CE32C
+P 3850 2400
+F 0 "U1" H 3850 2083 50  0000 C CNN
+F 1 "74HC14" H 3850 2174 50  0000 C CNN
+F 2 "" H 3850 2400 50  0001 C CNN
+F 3 "http://www.ti.com/lit/gpn/sn74HC14" H 3850 2400 50  0001 C CNN
+	6    3850 2400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2550 2950 2950 2950
+Wire Wire Line
+	2950 2850 2950 2400
+Wire Wire Line
+	2550 2850 2950 2850
+Wire Wire Line
+	2950 3050 2950 3500
+Wire Wire Line
+	2550 3050 2950 3050
+Wire Wire Line
+	2550 1900 5400 1900
+Wire Wire Line
+	2550 4000 4400 4000
+Connection ~ 4400 4000
 $EndSCHEMATC

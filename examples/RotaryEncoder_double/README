@@ -1,0 +1,30 @@
+NAME
+
+    RotaryEncoder_double.ino - two rotary encoders brighten/dimm 2 leds
+
+DESCRIPTION
+
+    When turning the rotary encoder clock wise will add-up to the counter
+    and increase the brightness of the led. Pushing the button will
+    light-up the led to maximum intensity and print out counter status to
+    the serial port.
+
+    rotary encoder 1:
+
+        pin 2 → A pin
+        pin 4 → B pin
+        pin 7 → Button pin
+        pin 10 → led + resistor
+
+    rotary encoder 2:
+
+        pin 3 → A pin
+        pin 5 → B pin
+        pin 8 → Button pin
+        pin 11 → led + resistor
+
+HARDWARE
+
+    See KiCad schematics and image in examples/RotaryEncoder_single/
+    folder.
+
